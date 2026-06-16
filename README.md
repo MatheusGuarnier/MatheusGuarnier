@@ -1,4 +1,5 @@
 Hi there 👋
+
 I am Matheus, a second‑year Software Engineering student based in the United Kingdom. I enjoy building projects that help me learn, experiment and grow as a developer. My main focus is Python, and I also work with HTML, CSS, JavaScript and Java at different levels of proficiency.
 
 🔭 I am currently working on improving my Python skills and strengthening my web development foundations
